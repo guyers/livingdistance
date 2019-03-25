@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body, .body {
+	background-color: #EEE;
+	counter-reset: eqCounter;
+	font-family: 'Segoe UI',sans-serif;
+	font-size: 13px;
+	line-height: 150%;
+	margin: 0px;
+	min-width: 260px;
+}
+
+#mapid {
+	height: 1000px;
+}
